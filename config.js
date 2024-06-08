@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["2349065194471", "BLAZE", false],
   [''], 
   [''] 
 ]
@@ -120,8 +120,8 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.botname = 'NIGGA'
+global.princebot = '🛡️NIGGA-𝘔𝘋🛡️'
 global.packname = 'Prince♥️' 
 global.author = 'Prince♥️' 
 global.princeig = 'https://www.instagram.com' 
